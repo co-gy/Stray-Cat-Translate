@@ -1,19 +1,27 @@
-# LLM Translate(流浪猫翻译)
+# Stray Cat Translate (流浪猫翻译)
 
-## 安装
+A minimal translator. Copy any text and it gets translated by an LLM.
+
+[▶ Watch the demo](screen.mov)
+
+## Download
+
+[Releases](https://github.com/co-gy/Stray-Cat-Translate/releases) (macOS, Apple Silicon)
+
+## Usage
+
+1. On first launch, confirm the LLM settings. They default to the free API of Bilibili's [Index-Translate](https://github.com/bilibili/Index-Translate); any OpenAI-compatible API works.
+2. Copy text anywhere, and the translation appears in the window.
+
+Change settings anytime via **Settings → LLM Settings…** in the menu bar.
+
+## Build from source
 
 ```bash
 uv venv venv --python=3.12
-```
-```bash
 source venv/bin/activate
-```
-```bash
 uv pip install -r requirements.txt
 ```
-
-
-## 打包
 
 macOS:
 ```bash
@@ -24,4 +32,3 @@ Windows:
 ```bash
 pyinstaller --name "流浪猫翻译" --clean --noconfirm --onefile --windowed --hidden-import=ttkbootstrap --icon=app.ico --add-data="app.png;." --add-data="config.json;." --add-data="i18n;i18n" main.py
 ```
-
