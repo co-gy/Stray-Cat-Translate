@@ -1,9 +1,12 @@
 {
+    "language_name": "한국어",
     "target_lang": "韩语",
     "ui": {
         "app_name": "길고양이 번역",
         "menu_settings": "설정",
         "menu_llm_config": "LLM 설정…",
+        "menu_language": "언어",
+        "language_auto": "자동 (지역 기준)",
         "model": "모델:",
         "ok": "확인",
         "welcome": "번역할 텍스트를 복사해 주세요...\n뭐? 이것까지 알려줘야 해?\n\n그럼 특별히 알려줄게:\n\t1. 마우스로 선택\n\t2. ctrl+c로 복사",

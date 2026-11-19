@@ -1,9 +1,12 @@
 {
+    "language_name": "Bahasa Indonesia",
     "target_lang": "印尼语",
     "ui": {
         "app_name": "Penerjemah Kucing Liar",
         "menu_settings": "Pengaturan",
         "menu_llm_config": "Pengaturan LLM…",
+        "menu_language": "Bahasa",
+        "language_auto": "Otomatis (berdasarkan lokasi)",
         "model": "Model:",
         "ok": "OK",
         "welcome": "Salin teks yang ingin diterjemahkan...\nApa? Ini juga harus diajari?\n\nBaiklah, karena saya baik hati:\n\t1. Pilih dengan mouse\n\t2. Tekan ctrl+c",

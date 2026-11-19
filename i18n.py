@@ -6,6 +6,7 @@
     3. 以上都没有结果时用 DEFAULT_LOCALE
 
 每个 i18n/<locale>.json 包含:
+    language_name: 该语言自己的名称, 显示在 "语言" 菜单里
     target_lang: 翻译的目标语言 (填进中文 prompt, 所以写中文名称)
     ui:          界面文字, 缺少的键用 en.json 补齐
 """
@@ -53,6 +54,16 @@ def detect_locale():
     return _ip_cache["locale"]
 
 
+@lru_cache(maxsize=None)
+def available_locales():
+    """[(locale, 语言名称), ...], 顺序同 countries.json, 其余按文件名排在后面"""
+    files = sorted(f[:-5] for f in os.listdir(I18N_DIR)
+                   if f.endswith(".json") and f != "countries.json")
+    order = list(read_json(os.path.join(I18N_DIR, "countries.json")))
+    files.sort(key=lambda loc: order.index(loc) if loc in order else len(order))
+    return [(loc, load_locale(loc)["language_name"]) for loc in files]
+
+
 def resolve_locale(conf):
     return conf.get("locale") or detect_locale() or DEFAULT_LOCALE
 
@@ -65,4 +76,5 @@ def load_locale(locale):
         path = os.path.join(I18N_DIR, f"{DEFAULT_LOCALE}.json")
     data = read_json(path)
     ui = {**read_json(os.path.join(I18N_DIR, f"{BASE_LOCALE}.json"))["ui"], **data.get("ui", {})}
-    return {"target_lang": data["target_lang"], "ui": ui}
+    return {"language_name": data.get("language_name", locale),
+            "target_lang": data["target_lang"], "ui": ui}

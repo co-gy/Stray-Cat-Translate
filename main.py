@@ -16,7 +16,7 @@ import time
 from prompt import translate_template
 from llm import LLM
 from config import APP_NAME, resource_path, has_user_config, load_config, save_config
-from i18n import resolve_locale, load_locale
+from i18n import resolve_locale, load_locale, available_locales
 
 # macOS 从 Finder 启动 .app 时没有 LANG, pyperclip 调用的 pbpaste 会按 GBK 等旧编码输出,
 # 剪切板里有中文/日文时按 UTF-8 解码直接崩溃
@@ -31,8 +31,10 @@ class TransApp:
     def __init__(self, root):
         # config: 有已保存的用户配置就直接开始翻译, 否则显示设置表单
         self.config = load_config()
-        # 界面语言在启动时确定一次; 翻译的目标语言在每次翻译前重新确定 (见 translate)
+        # 界面语言在启动时和切换语言时确定; 翻译的目标语言在每次翻译前重新确定 (见 translate)
         self.ui = load_locale(resolve_locale(self.config))["ui"]
+        self.status_msg = None        # 标题栏 [...] 里的状态
+        self.showing_welcome = False  # 文本框里是否还是欢迎语 (切换语言时要跟着换)
 
         # translate
         self.max_limit = 10000
@@ -83,11 +85,49 @@ class TransApp:
         menubar = tk.Menu(self.root)
         settings_menu = tk.Menu(menubar, tearoff=0)
         settings_menu.add_command(label=self.ui["menu_llm_config"], command=self.open_settings)
+
+        # 语言: 同时决定界面文字和翻译的目标语言; "" 表示自动 (按 IP 所在地区)
+        self.locale_var = tk.StringVar(self.root, value=self.config.get("locale") or "")
+        language_menu = tk.Menu(settings_menu, tearoff=0)
+        language_menu.add_radiobutton(label=self.ui["language_auto"], value="",
+                                      variable=self.locale_var, command=self.on_language_selected)
+        language_menu.add_separator()
+        for locale, name in available_locales():
+            language_menu.add_radiobutton(label=name, value=locale,
+                                          variable=self.locale_var, command=self.on_language_selected)
+        settings_menu.add_cascade(label=self.ui["menu_language"], menu=language_menu)
+
         menubar.add_cascade(label=self.ui["menu_settings"], menu=settings_menu)
         self.root.config(menu=menubar)
         # macOS: 让应用菜单里的 "偏好设置…" (Cmd+,) 也打开配置
         if self.root.tk.call("tk", "windowingsystem") == "aqua":
             self.root.createcommand("tk::mac::ShowPreferences", self.open_settings)
+
+    def on_language_selected(self):
+        locale = self.locale_var.get()
+        if locale == (self.config.get("locale") or ""):
+            return
+        if locale:
+            self.config["locale"] = locale
+        else:
+            self.config.pop("locale", None)
+        save_config(self.config)
+        self.ui = load_locale(resolve_locale(self.config))["ui"]
+        self.apply_ui_language()
+        # 已经有翻译结果时, 把当前剪切板内容按新的目标语言重新翻译一次
+        if self.trans_container is not None and not self.showing_welcome:
+            self.last_content = None
+
+    def apply_ui_language(self):
+        """切换语言后刷新所有界面文字"""
+        self.set_menu()
+        if self.showing_welcome:
+            self.show_welcome()
+        else:
+            self.update_status(self.status_msg)
+        if self.config_frame is not None:
+            for widget, key in self.config_widgets:
+                widget.config(text=self.ui[key])
 
     def open_settings(self):
         if self.config_frame is not None:  # 配置表单已经打开
@@ -138,6 +178,8 @@ class TransApp:
             self.start_translating()
         btn = ttkb.Button(frame, text=self.ui["ok"], command=on_click, bootstyle="success-outline")
         btn.grid(row=3, column=0, columnspan=2, pady=10)
+        self.config_widgets = [(base_url_label, "base_url"), (api_key_label, "api_key"),
+                               (model_label, "model"), (btn, "ok")]
         frame.columnconfigure(1, weight=1)
 
     def set_trans_ui(self):
@@ -159,8 +201,12 @@ class TransApp:
         self.clipboard_text.config(yscrollcommand=self.scrollbar.set)
     
         # init info
-        self.root.after(0, self.update_text, self.ui["welcome"])
-        self.root.after(0, self.update_status, self.ui["welcome_status"])
+        self.root.after(0, self.show_welcome)
+
+    def show_welcome(self):
+        self.update_text(self.ui["welcome"])
+        self.update_status(self.ui["welcome_status"])
+        self.showing_welcome = True
 
     def post(self, func, *args):
         """从后台线程安排一次界面更新 (线程安全)"""
@@ -190,6 +236,7 @@ class TransApp:
                 if current != self.last_content and current.strip():
                     self.last_content = current
                     if len(current) > self.max_limit:
+                        self.post(self.clear_text)
                         self.post(self.update_text, self.ui["too_long"])
                         continue
                     self.post(self.clear_text)
@@ -214,7 +261,9 @@ class TransApp:
                 time.sleep(2)
     
     def update_status(self, msg):
-        self.root.title(f"流浪猫翻译[{msg}]")
+        self.status_msg = msg
+        title = self.ui["app_name"]
+        self.root.title(f"{title}[{msg}]" if msg is not None else title)
 
     def update_text(self, text):
         self.clipboard_text.config(state="normal")
@@ -226,6 +275,7 @@ class TransApp:
         self.clipboard_text.insert("end", chunk)
     
     def clear_text(self):
+        self.showing_welcome = False
         self.clipboard_text.config(state="normal")
         self.clipboard_text.delete("1.0", "end")
 

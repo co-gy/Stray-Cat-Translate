@@ -1,9 +1,12 @@
 {
+    "language_name": "Tiếng Việt",
     "target_lang": "越南语",
     "ui": {
         "app_name": "Mèo Hoang Dịch Thuật",
         "menu_settings": "Cài đặt",
         "menu_llm_config": "Cài đặt LLM…",
+        "menu_language": "Ngôn ngữ",
+        "language_auto": "Tự động (theo vị trí)",
         "model": "Mô hình:",
         "ok": "OK",
         "welcome": "Hãy sao chép văn bản cần dịch...\nGì cơ? Cái này cũng phải dạy à?\n\nThôi được, tôi rộng lượng chỉ cho:\n\t1. Bôi đen bằng chuột\n\t2. Nhấn ctrl+c",

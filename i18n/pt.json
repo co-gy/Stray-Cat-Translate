@@ -1,9 +1,12 @@
 {
+    "language_name": "Português",
     "target_lang": "葡萄牙语",
     "ui": {
         "app_name": "Tradutor Gato de Rua",
         "menu_settings": "Configurações",
         "menu_llm_config": "Configurações do LLM…",
+        "menu_language": "Idioma",
+        "language_auto": "Automático (por localização)",
         "model": "Modelo:",
         "ok": "OK",
         "welcome": "Copie o texto que deseja traduzir...\nO quê? Preciso mesmo explicar isso?\n\nTudo bem, por pura bondade:\n\t1. Selecione com o mouse\n\t2. Pressione ctrl+c",

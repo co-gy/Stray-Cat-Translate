@@ -1,9 +1,12 @@
 {
+    "language_name": "English",
     "target_lang": "英语",
     "ui": {
         "app_name": "Stray Cat Translate",
         "menu_settings": "Settings",
         "menu_llm_config": "LLM Settings…",
+        "menu_language": "Language",
+        "language_auto": "Auto (by location)",
         "base_url": "Base URL:",
         "api_key": "API Key:",
         "model": "Model:",

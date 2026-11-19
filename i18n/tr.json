@@ -1,9 +1,12 @@
 {
+    "language_name": "Türkçe",
     "target_lang": "土耳其语",
     "ui": {
         "app_name": "Sokak Kedisi Çevirmen",
         "menu_settings": "Ayarlar",
         "menu_llm_config": "LLM Ayarları…",
+        "menu_language": "Dil",
+        "language_auto": "Otomatik (konuma göre)",
         "model": "Model:",
         "ok": "Tamam",
         "welcome": "Çevirmek istediğin metni kopyala...\nNe? Bunu da mı anlatmam gerekiyor?\n\nPeki, madem öyle:\n\t1. Fareyle seç\n\t2. ctrl+c ile kopyala",

@@ -18,6 +18,8 @@ https://github.com/user-attachments/assets/4634c2e7-42ca-4cf5-907a-336d52fa0a03
 
 Change settings anytime via **Settings → LLM Settings…** in the menu bar.
 
+Pick the language under **Settings → Language**. It sets both the interface language and the language text is translated into. **Auto** chooses it from your location.
+
 ## Build from source
 
 ```bash

@@ -1,9 +1,12 @@
 {
+    "language_name": "Italiano",
     "target_lang": "意大利语",
     "ui": {
         "app_name": "Traduttore Gatto Randagio",
         "menu_settings": "Impostazioni",
         "menu_llm_config": "Impostazioni LLM…",
+        "menu_language": "Lingua",
+        "language_auto": "Automatica (in base alla posizione)",
         "model": "Modello:",
         "ok": "OK",
         "welcome": "Copia il testo da tradurre...\nCosa? Devo anche spiegartelo?\n\nVa bene, per pura bontà:\n\t1. Selezionalo con il mouse\n\t2. Premi ctrl+c",

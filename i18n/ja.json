@@ -1,9 +1,12 @@
 {
+    "language_name": "日本語",
     "target_lang": "日语",
     "ui": {
         "app_name": "野良猫翻訳",
         "menu_settings": "設定",
         "menu_llm_config": "LLM 設定…",
+        "menu_language": "言語",
+        "language_auto": "自動 (地域から判定)",
         "model": "モデル:",
         "ok": "OK",
         "welcome": "翻訳したいテキストをコピーしてね...\nえ? そこから説明が必要?\n\n仕方ないなあ、教えてあげる:\n\t1. マウスで選択\n\t2. ctrl+c でコピー",

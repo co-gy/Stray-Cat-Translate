@@ -1,9 +1,12 @@
 {
+    "language_name": "简体中文",
     "target_lang": "简体中文",
     "ui": {
         "app_name": "流浪猫翻译",
         "menu_settings": "设置",
         "menu_llm_config": "LLM 配置…",
+        "menu_language": "语言",
+        "language_auto": "自动 (按所在地区)",
         "model": "模型:",
         "ok": "确定",
         "welcome": "请对要翻译的文本进行复制...\n什么?这还要我教你吗?\n\n那我就大发慈悲:\n\t1. 鼠标选中\n\t2. ctrl+c复制",
