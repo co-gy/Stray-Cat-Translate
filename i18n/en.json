@@ -1,0 +1,15 @@
+{
+    "target_lang": "英语",
+    "ui": {
+        "app_name": "Stray Cat Translate",
+        "menu_settings": "Settings",
+        "menu_llm_config": "LLM Settings…",
+        "base_url": "Base URL:",
+        "api_key": "API Key:",
+        "model": "Model:",
+        "ok": "OK",
+        "welcome": "Copy the text you want to translate...\nWhat? You need me to explain that?\n\nFine, out of the kindness of my heart:\n\t1. Select it with the mouse\n\t2. Press ctrl+c",
+        "welcome_status": "😺Welcome😺",
+        "too_long": "Your input is too long! Meow meow"
+    }
+}

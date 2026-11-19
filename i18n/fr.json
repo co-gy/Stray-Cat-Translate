@@ -1,0 +1,13 @@
+{
+    "target_lang": "法语",
+    "ui": {
+        "app_name": "Traducteur Chat Errant",
+        "menu_settings": "Réglages",
+        "menu_llm_config": "Paramètres LLM…",
+        "model": "Modèle :",
+        "ok": "OK",
+        "welcome": "Copiez le texte à traduire...\nQuoi ? Il faut vraiment que je vous l'explique ?\n\nBon, puisque je suis généreux :\n\t1. Sélectionnez-le à la souris\n\t2. Appuyez sur ctrl+c",
+        "welcome_status": "😺Bienvenue😺",
+        "too_long": "Ton texte est trop long ! Miaou miaou"
+    }
+}

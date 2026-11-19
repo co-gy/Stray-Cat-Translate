@@ -1,0 +1,21 @@
+# 虚拟环境
+venv/
+.venv/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# PyInstaller 打包产物 (流浪猫翻译.spec 保留, 打包配置要跟着代码走)
+build/
+dist/
+
+# 发布用的压缩包 (上传到 GitHub Release, 不进仓库)
+*.zip
+
+# macOS
+.DS_Store
+
+# 编辑器 / IDE
+.vscode/
+.idea/

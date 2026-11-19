@@ -1,0 +1,13 @@
+{
+    "target_lang": "越南语",
+    "ui": {
+        "app_name": "Mèo Hoang Dịch Thuật",
+        "menu_settings": "Cài đặt",
+        "menu_llm_config": "Cài đặt LLM…",
+        "model": "Mô hình:",
+        "ok": "OK",
+        "welcome": "Hãy sao chép văn bản cần dịch...\nGì cơ? Cái này cũng phải dạy à?\n\nThôi được, tôi rộng lượng chỉ cho:\n\t1. Bôi đen bằng chuột\n\t2. Nhấn ctrl+c",
+        "welcome_status": "😺Chào mừng😺",
+        "too_long": "Văn bản của bạn dài quá! Meo meo"
+    }
+}

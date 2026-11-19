@@ -1,0 +1,13 @@
+{
+    "target_lang": "德语",
+    "ui": {
+        "app_name": "Streunerkatze Übersetzer",
+        "menu_settings": "Einstellungen",
+        "menu_llm_config": "LLM-Einstellungen…",
+        "model": "Modell:",
+        "ok": "OK",
+        "welcome": "Kopiere den Text, den du übersetzen willst...\nWas? Das muss ich dir erklären?\n\nNa gut, ausnahmsweise:\n\t1. Mit der Maus markieren\n\t2. Mit Strg+C kopieren",
+        "welcome_status": "😺Willkommen😺",
+        "too_long": "Deine Eingabe ist zu lang! Miau miau"
+    }
+}

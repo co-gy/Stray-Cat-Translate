@@ -1,0 +1,13 @@
+{
+    "target_lang": "西班牙语",
+    "ui": {
+        "app_name": "Traductor Gato Callejero",
+        "menu_settings": "Ajustes",
+        "menu_llm_config": "Configuración LLM…",
+        "model": "Modelo:",
+        "ok": "Aceptar",
+        "welcome": "Copia el texto que quieras traducir...\n¿Qué? ¿También tengo que explicarte eso?\n\nBueno, por pura bondad:\n\t1. Selecciónalo con el ratón\n\t2. Pulsa ctrl+c",
+        "welcome_status": "😺Bienvenido😺",
+        "too_long": "¡Tu texto es demasiado largo! Miau miau"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "target_lang": "荷兰语",
+    "ui": {
+        "app_name": "Zwerfkat Vertaler",
+        "menu_settings": "Instellingen",
+        "menu_llm_config": "LLM-instellingen…",
+        "model": "Model:",
+        "ok": "OK",
+        "welcome": "Kopieer de tekst die je wilt vertalen...\nWat? Moet ik dat ook nog uitleggen?\n\nVooruit dan maar:\n\t1. Selecteer met de muis\n\t2. Druk op ctrl+c",
+        "welcome_status": "😺Welkom😺",
+        "too_long": "Je invoer is te lang! Miauw miauw"
+    }
+}

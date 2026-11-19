@@ -1,0 +1,13 @@
+{
+    "target_lang": "繁体中文",
+    "ui": {
+        "app_name": "流浪貓翻譯",
+        "menu_settings": "設定",
+        "menu_llm_config": "LLM 設定…",
+        "model": "模型:",
+        "ok": "確定",
+        "welcome": "請複製要翻譯的文字...\n什麼?這還要我教你嗎?\n\n那我就大發慈悲:\n\t1. 滑鼠選取\n\t2. ctrl+c 複製",
+        "welcome_status": "😺歡迎使用😺",
+        "too_long": "你的輸入太長啦！喵喵"
+    }
+}

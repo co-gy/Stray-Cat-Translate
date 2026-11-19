@@ -1,0 +1,13 @@
+{
+    "target_lang": "马来语",
+    "ui": {
+        "app_name": "Penterjemah Kucing Liar",
+        "menu_settings": "Tetapan",
+        "menu_llm_config": "Tetapan LLM…",
+        "model": "Model:",
+        "ok": "OK",
+        "welcome": "Salin teks yang hendak diterjemah...\nApa? Ini pun perlu diajar?\n\nBaiklah, sebab saya baik hati:\n\t1. Pilih dengan tetikus\n\t2. Tekan ctrl+c",
+        "welcome_status": "😺Selamat datang😺",
+        "too_long": "Teks anda terlalu panjang! Meow meow"
+    }
+}
