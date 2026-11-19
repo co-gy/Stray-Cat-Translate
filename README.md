@@ -2,7 +2,10 @@
 
 A minimal translator. Copy any text and it gets translated by an LLM.
 
-[▶ Watch the demo](screen.mov)
+
+https://github.com/user-attachments/assets/4634c2e7-42ca-4cf5-907a-336d52fa0a03
+
+
 
 ## Download
 
