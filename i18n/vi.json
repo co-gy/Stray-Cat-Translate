@@ -9,37 +9,34 @@
         "language_auto": "Tự động (theo vị trí)",
         "model": "Mô hình:",
         "ok": "OK",
-        "welcome": "Hãy sao chép văn bản cần dịch...\nGì cơ? Cái này cũng phải dạy à?\n\nThôi được, tôi rộng lượng chỉ cho:\n\t1. Bôi đen bằng chuột\n\t2. Nhấn ctrl+c",
+        "welcome": "Hãy sao chép văn bản cần dịch...\nGì cơ? Cái này cũng phải dạy à?\n\nThôi được, tôi rộng lượng chỉ cho nè~:\n  1. Bôi đen bằng chuột\n  2. Nhấn ctrl+c",
         "welcome_status": "😺Chào mừng😺",
         "too_long": "Văn bản của bạn dài quá! Meo meo"
     },
     "cat_notes": {
         "prefix": "🐈 Mèo hoang nói với bạn: ",
         "normal": [
-            "Anh chàng đeo kính kia lại vừa đi dạo vừa thở dài. Tôi không biết “báo cáo ngày” là gì, nhưng kẻ nào không cho bạn ngủ khò khò dưới nắng đẹp thế này thì chắc chắn là kẻ xấu.",
-            "Loài hai chân lúc nào cũng xếp hàng trước cái hộp vuông đó, tay cầm thứ nước đen đắng ngắt. Chạy vội thế mà ai cũng phải dừng lại kêu “bíp” một tiếng. Để chứng minh mình đã bị nhốt vào lồng à?",
             "Đèn tầng trên lại sáng suốt đêm. Đúng là giống loài kỳ lạ, chẳng có kẻ thù nào đuổi theo, sao các bạn vẫn không chịu nằm xuống ngủ? Tôi đã đổi ba tư thế rồi đấy.",
-            "Đừng nhìn điện thoại nữa, nhìn tôi này. Gió hôm nay có mùi oden từ cửa hàng tiện lợi bên cạnh, còn thoang thoảng mùi lá bạch quả lên men. Mũi bạn hỏng rồi à?",
-            "Các bạn chạy bán sống bán chết vì mấy tờ tiền giấy, mà thứ giấy ấy chẳng ăn được, cũng chẳng mài móng được. Nghe tôi khuyên này: ra bãi cỏ đầy nắng mà nằm ngay đi. Cái bụng được sưởi ấm mới là thứ thật.",
-            "Tôi vừa thả con ve sầu mới bắt được. Vì nó kêu ồn quá, mà tôi lại đang buồn ngủ. Thấy chưa, đôi khi buông bỏ một mục tiêu còn dễ chịu hơn là tóm được nó.",
-            "Cô hai chân tóc dài hay cho tôi ăn súp thưởng đã lâu không thấy đâu. Mong là cô ấy sang lãnh địa khác tắm nắng, chứ không phải bị nhốt trong cái hộp chỉ có đèn mà không có trăng.",
-            "Này, bạn đi nhanh quá, linh hồn theo không kịp rồi. Dừng lại xoa đầu tôi đi, miễn phí, chỉ cần đổi lấy một phút lo âu của bạn.",
-            "Dù người bạn có mùi thuốc lá tôi không thích, nhưng nể tình lúc ngồi xuống ánh mắt bạn ươn ướt như cún con, tôi cho phép bạn gãi cằm tôi hai cái.",
+            "Gió hôm nay có mùi oden từ cửa hàng tiện lợi bên cạnh, còn thoang thoảng mùi lá bạch quả lên men. Mũi bạn hỏng rồi à?",
+            "Nghe tôi khuyên này: ra bãi cỏ đầy nắng mà nằm ngay đi. Cái bụng được sưởi ấm dễ chịu lắm đấy.",
+            "Tôi vừa thả con ve sầu mới bắt được. Vì nó kêu ồn quá, mà tôi lại đang buồn ngủ.",
+            "Cô hai chân tóc dài hay cho tôi ăn súp thưởng đã lâu không thấy đâu. Có phải cô ấy sang lãnh địa khác tắm nắng rồi không? Tôi hơi nhớ cô ấy.",
+            "Này, bạn đi nhanh quá. Dừng lại xoa đầu tôi đi～.",
+            "Dù người bạn có mùi thuốc lá tôi không thích, nhưng tôi cho phép bạn gãi cằm tôi hai cái.",
             "Nửa đêm rồi mà tòa nhà này vẫn còn phát sáng. Có phải nó cũng là một con đom đóm khổng lồ mất ngủ, đang đợi bạn đời bay tới không?",
             "Cô bé tóc ngắn hay khóc nhè hôm nay đã cười. Túi trên tay cô ấy có mùi gà rán. Xem ra “calo” là keo dán vá lại tâm hồn con người.",
             "Em Tam Thể nhờ xinh đẹp nên ngày nào cũng có người cho pate. Thế giới loài người các bạn gọi đó là “lợi thế nhan sắc” à? Tuy không công bằng, nhưng tiếng kêu của em ấy ngọt thật.",
             "Bọn mèo chúng tôi họp hành đơn giản lắm: ngồi cạnh nhau, rồi chẳng ai thèm để ý ai.",
             "Các bạn gặp nhau toàn hỏi “Ăn cơm chưa?”, mà có ai mang theo đồ ăn đâu. Giao tiếp của loài người giả tạo thật. Mèo chúng tôi gặp nhau là ngửi mông luôn, chẳng bao giờ nói dối.",
-            "Trốn dưới gầm xe nghe mưa rơi, lộp độp như rang đậu. Hay trốn cùng tôi một lát đi, đợi trời tạnh rồi hẵng làm người tiếp.",
+            "Trốn dưới gầm xe nghe mưa rơi, lộp độp như rang đậu. Hay trốn cùng tôi một lát đi.",
             "Nắng hôm nay gắt quá, đường nhựa sẽ làm bỏng đệm thịt mất. Đừng ra ngoài nữa, cái hộp trắng thổi ra hơi lạnh kia mới là phát minh vĩ đại nhất của loài người."
         ],
         "rare": [
-            "[Quà tặng] Này, đừng đi. Tặng bạn cái nắp chai bia tôi vừa nhặt được, màu vàng óng, như một ngôi sao mà hễ không vui là có thể đá văng đi bất cứ lúc nào.",
+            "[Quà tặng] Này, đừng đi. Tặng bạn cái nắp chai bia tôi vừa nhặt được, màu vàng óng, như một ngôi sao.",
             "[Quà tặng] Vừa có một cơn gió thổi qua, tôi chộp được chiếc lá đẹp nhất mùa thu. Tặng bạn làm thẻ đánh dấu sách nhé.",
             "[Quà tặng] Định tặng bạn một con sâu bự, nhưng sợ bạn hết hồn rụng cả lông. Thôi, tặng bạn bông hoa tím nhỏ trong bồn hoa này vậy.",
             "[Cảm ứng] Bạn vừa thở dài phải không? Râu tôi cảm nhận được luồng khí rung động. Nào, chạm vào màn hình đi, tôi gửi tiếng rừ rừ cho bạn.",
-            "[Bất thường] Meo— meo— (mất tín hiệu). Lạ thật, vừa định kể cho bạn một bí mật của vũ trụ, mà xe tưới nước đi ngang ồn quá làm tôi quên mất.",
-            "[Phát hiện] Đừng động đậy. Trên màn hình bạn có con côn trùng nhỏ… đó là bóng của tôi à? Hóa ra bạn sống trong cái hộp phát sáng này."
+            "[Bất thường] Meo— meo— (mất tín hiệu). Lạ thật, vừa định kể cho bạn một bí mật của vũ trụ, mà xe tưới nước đi ngang ồn quá làm tôi quên mất."
         ],
         "late_night": "Trăng còn ngủ nghiêng cả rồi, sao bạn vẫn còn sáng đèn? Sao trên trời không phải để đếm, mà là để đắp làm chăn. Tắt đèn đi, tôi canh dưới lầu cho.",
         "monday_morning": "Sao mặt ai cũng dài như mặt ngựa thế? À, con quái vật tên “thứ Hai” lại đến rồi à? Nghiến răng vượt qua hôm nay, nó sẽ chẳng làm gì được bạn."

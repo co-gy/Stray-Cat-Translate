@@ -9,37 +9,34 @@
         "language_auto": "Automático (según ubicación)",
         "model": "Modelo:",
         "ok": "Aceptar",
-        "welcome": "Copia el texto que quieras traducir...\n¿Qué? ¿También tengo que explicarte eso?\n\nBueno, por pura bondad:\n\t1. Selecciónalo con el ratón\n\t2. Pulsa ctrl+c",
+        "welcome": "Copia el texto que quieras traducir...\n¿Qué? ¿También tengo que explicarte eso?\n\nBueno, por pura bondad te lo cuento~:\n  1. Selecciónalo con el ratón\n  2. Pulsa ctrl+c",
         "welcome_status": "😺Bienvenido😺",
         "too_long": "¡Tu texto es demasiado largo! Miau miau"
     },
     "cat_notes": {
         "prefix": "🐈 El gato callejero te dice: ",
         "normal": [
-            "El chico de gafas vuelve a suspirar mientras pasea. No sé qué es un «informe diario», pero quien no te deje ronronear con un sol tan bueno tiene que ser un villano.",
-            "Los bípedos siempre hacen cola delante de esa caja cuadrada, con agua negra y amarga en la mano. Corren tanto y, aun así, todos se paran para hacer «pip». ¿Será para demostrar que la jaula los ha atrapado?",
             "La luz de arriba ha vuelto a estar encendida toda la noche. Qué especie más rara. Nadie los persigue, ¿por qué no se acuestan a dormir? Yo ya he cambiado de postura tres veces.",
-            "Deja el teléfono y mírame a mí. Hoy el viento huele al oden de la tienda de al lado, con un toque de hojas de ginkgo fermentando. ¿Se te ha roto la nariz?",
-            "Corren sin parar por unos cuantos billetes que no se pueden comer ni sirven para afilarse las uñas. Hazme caso: ve ahora mismo a tumbarte en el césped al sol. La barriga calentita por el sol, eso sí que es de verdad.",
-            "He soltado la cigarra que acababa de cazar. Hacía demasiado ruido y yo tenía un poco de sueño. ¿Ves? A veces renunciar a una meta sienta mejor que alcanzarla.",
-            "La bípeda de pelo largo que siempre me daba premios hace mucho que no aparece. Espero que se haya ido a tomar el sol a otro territorio, y no que esté encerrada en una caja con lámparas pero sin luna.",
-            "Oye, caminas tan rápido que tu alma no te alcanza. Para y acaríciame la cabeza. Es gratis: solo te cuesta un minuto de ansiedad a cambio.",
-            "Hueles a tabaco, y eso no me gusta. Pero como al agacharte se te pusieron los ojos húmedos como los de un cachorro, te permito rascarme la barbilla dos veces.",
+            "Hoy el viento huele al oden de la tienda de al lado, con un toque de hojas de ginkgo fermentando. ¿Se te ha roto la nariz?",
+            "Hazme caso: ve ahora mismo a tumbarte en el césped al sol. Tener la barriga calentita por el sol sienta bastante bien.",
+            "He soltado la cigarra que acababa de cazar. Hacía demasiado ruido y yo justo tenía un poco de sueño.",
+            "La bípeda de pelo largo que siempre me daba premios hace mucho que no aparece. ¿Se habrá ido a tomar el sol a otro territorio? La echo un poco de menos.",
+            "Oye, caminas demasiado rápido. Para y acaríciame la cabeza~.",
+            "Hueles a tabaco, y eso no me gusta. Pero te permito rascarme la barbilla dos veces.",
             "A medianoche, este edificio sigue brillando. ¿Será también una luciérnaga gigante con insomnio, esperando a que su pareja llegue volando?",
             "La chica de pelo corto que siempre llora hoy ha sonreído. Su bolsa olía a pollo frito. Parece que las «calorías» son el pegamento que repara el alma humana.",
             "A la pequeña tricolor le dan latas todos los días porque es guapa. ¿Eso es lo que ustedes los humanos llaman «el plus de la belleza»? No es justo, pero es que maúlla con una voz dulcísima.",
             "Nuestras reuniones de gatos son sencillas: nos sentamos juntos y nadie le hace caso a nadie.",
             "Siempre se dicen «¡a ver si quedamos para comer!», pero nunca traen comida. Qué falsa es la cortesía humana. Los gatos nos olemos el trasero directamente y nunca mentimos.",
-            "Escondido bajo un coche, escucho la lluvia repiquetear como garbanzos en la sartén. Escóndete un rato conmigo; ya volverás a ser humano cuando escampe.",
+            "Escondido bajo un coche, escucho la lluvia repiquetear como garbanzos en la sartén. Escóndete un rato conmigo.",
             "Hoy el sol pega fortísimo; el asfalto te quema las almohadillas. No salgas. Esa caja blanca que echa aire frío es el mayor invento de la humanidad."
         ],
         "rare": [
-            "[Regalo] Oye, no te vayas. Te regalo una chapa de cerveza que acabo de encontrar. Es dorada, como una estrella que puedes mandar lejos de una patada cada vez que no estés feliz.",
+            "[Regalo] Oye, no te vayas. Te regalo una chapa de cerveza que acabo de encontrar. Es dorada, como una estrella.",
             "[Regalo] Acaba de pasar una ráfaga de viento y he atrapado la hoja más bonita del otoño. Quédatela como marcapáginas.",
             "[Regalo] Iba a regalarte un bicho enorme, pero me dio miedo que se te cayera el pelo del susto. Bueno, toma esta florecita morada del parterre.",
             "[Sensación] ¿Acabas de suspirar? Mis bigotes han notado la vibración del aire. Ven, toca la pantalla, que te mando mi ronroneo.",
-            "[Anomalía] Miau… miau… (señal interrumpida). Qué raro. Iba a contarte un secreto del universo, pero el camión de riego que pasaba me lo ha hecho olvidar.",
-            "[Descubrimiento] No te muevas. Hay un mosquito en tu pantalla… ¿es mi reflejo? Así que vives dentro de esta caja que brilla."
+            "[Anomalía] Miau… miau… (señal interrumpida). Qué raro. Iba a contarte un secreto del universo, pero el camión de riego que pasaba me lo ha hecho olvidar."
         ],
         "late_night": "Hasta la luna se ha dormido torcida, ¿y tú sigues encendido? Las estrellas no son para contarlas, sino para taparse con ellas. Apaga la luz. Yo vigilo aquí abajo.",
         "monday_morning": "¿Por qué tienen todos la cara tan larga como la de un burro? Ah, ¿ha vuelto ese monstruo llamado «lunes»? Aprieta los dientes y aguanta hoy, y no podrá contigo."

@@ -9,37 +9,34 @@
         "language_auto": "Automatica (in base alla posizione)",
         "model": "Modello:",
         "ok": "OK",
-        "welcome": "Copia il testo da tradurre...\nCosa? Devo anche spiegartelo?\n\nVa bene, per pura bontà:\n\t1. Selezionalo con il mouse\n\t2. Premi ctrl+c",
+        "welcome": "Copia il testo da tradurre...\nCosa? Devo anche spiegartelo?\n\nVa bene, per pura bontà te lo dico~:\n  1. Selezionalo con il mouse\n  2. Premi ctrl+c",
         "welcome_status": "😺Benvenuto😺",
         "too_long": "Il tuo testo è troppo lungo! Miao miao"
     },
     "cat_notes": {
         "prefix": "🐈 Il gatto randagio ti dice: ",
         "normal": [
-            "Quel ragazzo con gli occhiali sospira di nuovo mentre passeggia. Non so cosa sia un «report giornaliero», ma chiunque non ti lasci fare le fusa sotto un sole così bello dev'essere per forza un cattivo.",
-            "I bipedi fanno sempre la fila davanti a quella scatola quadrata, con in mano un'acqua nera e amara. Corrono così veloci, eppure si fermano tutti per fare «bip». Sarà per dimostrare che la gabbia li ha catturati?",
             "La luce al piano di sopra è rimasta accesa tutta la notte, di nuovo. Che specie strana. Nessun predatore vi insegue, perché non vi sdraiate a dormire? Io ho già cambiato posizione tre volte.",
-            "Smettila di guardare il telefono e guarda me. Oggi il vento sa dell'oden del minimarket qui accanto, con un pizzico di foglie di ginkgo che fermentano. Ti si è rotto il naso?",
-            "Correte come matti per qualche banconota colorata che non si può mangiare né usare per farsi le unghie. Dammi retta: vai subito a sdraiarti sul prato al sole. La pancia scaldata dal sole, quella sì che è vera.",
-            "Ho lasciato andare la cicala che avevo appena preso. Faceva troppo rumore, e io avevo un po' sonno. Vedi? A volte rinunciare a un obiettivo fa stare meglio che raggiungerlo.",
-            "La bipede dai capelli lunghi che mi dava sempre gli snack non si vede da tanto tempo. Spero che sia andata a prendere il sole in un altro territorio, e non che sia chiusa in una scatola piena di lampade ma senza luna.",
-            "Ehi, cammini così veloce che la tua anima non riesce a starti dietro. Fermati e accarezzami la testa. È gratis: ti costa solo un minuto di ansia in cambio.",
-            "Sai di tabacco, e non mi piace. Ma visto che, quando ti sei accucciato, avevi gli occhi lucidi come un cucciolo, ti concedo di grattarmi il mento due volte.",
+            "Oggi il vento sa dell'oden del minimarket qui accanto, con un pizzico di foglie di ginkgo che fermentano. Ti si è rotto il naso?",
+            "Dammi retta: vai subito a sdraiarti sul prato al sole. La pancia scaldata dal sole è proprio una bella sensazione.",
+            "Ho lasciato andare la cicala che avevo appena preso. Faceva troppo rumore, e io avevo proprio un po' sonno.",
+            "La bipede dai capelli lunghi che mi dava sempre gli snack non si vede da tanto tempo. Sarà andata a prendere il sole in un altro territorio? Mi manca un po'.",
+            "Ehi, cammini troppo veloce. Fermati e accarezzami la testa~.",
+            "Sai di tabacco, e non mi piace. Ma ti concedo di grattarmi il mento due volte.",
             "A mezzanotte questo palazzo brilla ancora. Che sia anche lui una lucciola gigante insonne, in attesa che la sua compagna arrivi in volo?",
             "La ragazza dai capelli corti che piange sempre oggi ha sorriso. Il suo sacchetto profumava di pollo fritto. A quanto pare le «calorie» sono la colla che ripara l'anima umana.",
             "La piccola tricolore riceve scatolette ogni giorno perché è carina. Voi umani la chiamate «rendita della bellezza»? Non è giusto, ma il suo miagolio è davvero dolcissimo.",
             "Le nostre riunioni tra gatti sono semplici: ci sediamo insieme e nessuno si fila nessuno.",
             "Vi dite sempre «Prima o poi ci prendiamo un caffè!», ma il caffè non lo portate mai. Che ipocrita la cortesia umana. Noi gatti ci annusiamo direttamente il sedere e non mentiamo mai.",
-            "Nascosto sotto una macchina ascolto la pioggia, che scoppietta come fagioli in padella. Nasconditi un po' con me; tornerai a fare l'umano quando torna il sereno.",
+            "Nascosto sotto una macchina ascolto la pioggia, che scoppietta come fagioli in padella. Nasconditi un po' con me.",
             "Oggi il sole picchia fortissimo: l'asfalto scotta i polpastrelli. Non uscire. Quella scatola bianca che soffia aria fredda è la più grande invenzione dell'umanità."
         ],
         "rare": [
-            "[Regalo] Ehi, non andartene. Ti regalo un tappo di birra che ho appena trovato. È dorato, come una stella che puoi prendere a calci ogni volta che non sei felice.",
+            "[Regalo] Ehi, non andartene. Ti regalo un tappo di birra che ho appena trovato. È dorato, come una stella.",
             "[Regalo] È appena passata una folata di vento e ho acchiappato la foglia più bella dell'autunno. Tienila come segnalibro.",
             "[Regalo] Volevo regalarti un insettone, ma avevo paura che ti cadesse il pelo dallo spavento. Va bene, prendi questo fiorellino viola dell'aiuola.",
             "[Percezione] Hai appena sospirato? I miei baffi hanno sentito vibrare l'aria. Vieni, tocca lo schermo: ti mando le mie fusa.",
-            "[Anomalia] Miao… miao… (segnale interrotto). Strano. Stavo per svelarti un segreto dell'universo, ma l'autobotte che bagnava le strade me l'ha fatto dimenticare.",
-            "[Scoperta] Non muoverti. C'è un moscerino sul tuo schermo… è il mio riflesso? Allora vivi dentro questa scatola luminosa."
+            "[Anomalia] Miao… miao… (segnale interrotto). Strano. Stavo per svelarti un segreto dell'universo, ma l'autobotte che bagnava le strade me l'ha fatto dimenticare."
         ],
         "late_night": "Persino la luna si è addormentata di traverso, e tu sei ancora acceso? Le stelle non sono fatte per essere contate, ma per farci da coperta. Spegni la luce. Io faccio la guardia qui sotto.",
         "monday_morning": "Perché avete tutti una faccia lunga come quella di un asino? Ah, è tornato quel mostro chiamato «lunedì»? Stringi i denti e resisti per oggi, e non potrà farti niente."

@@ -9,37 +9,34 @@
         "language_auto": "Otomatis (berdasarkan lokasi)",
         "model": "Model:",
         "ok": "OK",
-        "welcome": "Salin teks yang ingin diterjemahkan...\nApa? Ini juga harus diajari?\n\nBaiklah, karena saya baik hati:\n\t1. Pilih dengan mouse\n\t2. Tekan ctrl+c",
+        "welcome": "Salin teks yang ingin diterjemahkan...\nApa? Ini juga harus diajari?\n\nBaiklah, karena aku baik hati, kukasih tahu deh~:\n  1. Pilih dengan mouse\n  2. Tekan ctrl+c",
         "welcome_status": "😺Selamat datang😺",
         "too_long": "Teksmu terlalu panjang! Meong meong"
     },
     "cat_notes": {
         "prefix": "🐈 Kucing liar berkata: ",
         "normal": [
-            "Cowok berkacamata itu menghela napas lagi sambil jalan-jalan. Aku nggak tahu apa itu \"laporan harian\", tapi siapa pun yang melarangmu mendengkur di bawah matahari sebagus ini pasti penjahat.",
-            "Para makhluk berkaki dua selalu antre di depan kotak persegi itu, memegang air hitam yang pahit. Mereka berlari begitu cepat, tapi semuanya berhenti demi bunyi \"bip\". Apa itu untuk membuktikan bahwa mereka sudah tertangkap di kandang?",
             "Lampu di lantai atas menyala semalaman lagi. Spesies yang aneh. Tidak ada pemangsa yang mengejar kalian, kenapa kalian tetap tidak mau berbaring dan tidur? Aku saja sudah ganti posisi tiga kali.",
-            "Berhenti lihat ponsel, lihat aku. Angin hari ini membawa aroma oden dari minimarket sebelah, dan sedikit wangi daun ginkgo yang sedang berfermentasi. Hidungmu rusak, ya?",
-            "Kalian berlari mati-matian demi beberapa lembar kertas merah, padahal kertas itu tidak bisa dimakan dan tidak bisa dipakai mengasah cakar. Dengarkan aku: lebih baik sekarang berbaring di rumput yang kena matahari. Rasa perut yang hangat dijemur, itu baru nyata.",
-            "Aku melepaskan tonggeret yang baru saja kutangkap. Suaranya terlalu berisik, dan kebetulan aku agak mengantuk. Lihat, kadang melepaskan sebuah tujuan terasa lebih nyaman daripada meraihnya.",
-            "Manusia berambut panjang yang selalu memberiku camilan kucing sudah lama tidak muncul. Semoga dia pergi berjemur di wilayah lain, bukan terkurung di kotak yang hanya punya lampu tanpa bulan.",
-            "Hei, jalanmu terlalu cepat, jiwamu sampai tertinggal. Berhentilah dan elus kepalaku. Gratis, cukup bayar dengan satu menit kecemasanmu.",
-            "Meskipun kamu bau tembakau yang tidak kusuka, karena matamu basah seperti anak anjing waktu kamu berjongkok, kuizinkan kamu menggaruk daguku dua kali.",
+            "Angin hari ini membawa aroma oden dari minimarket sebelah, dan sedikit wangi daun ginkgo yang sedang berfermentasi. Hidungmu rusak, ya?",
+            "Dengarkan aku: lebih baik sekarang berbaring di rumput yang kena matahari. Rasa perut yang hangat dijemur itu enak juga.",
+            "Aku melepaskan tonggeret yang baru saja kutangkap. Suaranya terlalu berisik, dan kebetulan aku agak mengantuk.",
+            "Manusia berambut panjang yang selalu memberiku camilan kucing sudah lama tidak muncul. Apa dia pergi berjemur di wilayah lain? Aku jadi agak kangen dia.",
+            "Hei, jalanmu terlalu cepat. Berhentilah dan elus kepalaku~.",
+            "Meskipun kamu bau tembakau yang tidak kusuka, kuizinkan kamu menggaruk daguku dua kali.",
             "Sudah tengah malam, gedung ini masih bersinar. Apakah dia juga kunang-kunang raksasa yang insomnia, menunggu pasangannya terbang datang?",
             "Cewek berambut pendek yang suka menangis itu hari ini tersenyum. Kantongnya beraroma ayam goreng. Sepertinya \"kalori\" adalah lem yang menambal jiwa manusia.",
             "Si Belang Tiga dapat makanan kaleng setiap hari karena cantik. Di dunia manusia, itu namanya \"privilese good looking\"? Memang tidak adil, tapi suaranya benar-benar manis.",
             "Rapat kami para kucing itu sederhana: duduk bersama, dan tidak ada yang saling peduli.",
             "Kalian kalau bertemu selalu tanya \"Sudah makan?\", padahal sama sekali tidak bawa makanan. Basa-basi manusia itu palsu sekali. Kami kucing langsung saling mengendus pantat, tidak pernah bohong.",
-            "Bersembunyi di kolong mobil mendengarkan hujan, tik-tik-tak seperti kacang disangrai. Ayo sembunyi bersamaku sebentar, nanti kalau sudah cerah baru jadi manusia lagi.",
+            "Bersembunyi di kolong mobil mendengarkan hujan, tik-tik-tak seperti kacang disangrai. Ayo sembunyi bersamaku sebentar.",
             "Matahari hari ini terlalu ganas, aspal bisa membakar bantalan kakimu. Jangan keluar. Kotak putih yang bisa meniupkan udara dingin itu adalah penemuan terhebat kalian manusia."
         ],
         "rare": [
-            "[Hadiah] Hei, jangan pergi. Ini tutup botol bir yang baru kutemukan, warnanya emas, seperti bintang yang bisa kamu tendang jauh-jauh kapan saja kalau sedang tidak bahagia.",
+            "[Hadiah] Hei, jangan pergi. Ini tutup botol bir yang baru kutemukan, warnanya emas, seperti bintang.",
             "[Hadiah] Barusan angin bertiup, dan aku menangkap daun musim gugur yang paling cantik. Ambillah untuk pembatas buku.",
             "[Hadiah] Tadinya aku mau memberimu serangga besar, tapi takut bulumu rontok karena kaget. Ya sudah, bunga ungu kecil dari petak bunga ini untukmu saja.",
             "[Firasat] Kamu barusan menghela napas, ya? Kumisku merasakan getaran udaranya. Sini, sentuh layarnya, akan kukirimkan dengkuranku padamu.",
-            "[Gangguan] Meong—meong—(sinyal terputus). Aneh, tadi aku mau memberitahumu sebuah rahasia alam semesta, tapi jadi lupa gara-gara truk penyiram jalan yang lewat.",
-            "[Penemuan] Jangan bergerak. Ada serangga kecil di layarmu… itu bayanganku? Ternyata kamu tinggal di dalam kotak bercahaya ini, ya."
+            "[Gangguan] Meong—meong—(sinyal terputus). Aneh, tadi aku mau memberitahumu sebuah rahasia alam semesta, tapi jadi lupa gara-gara truk penyiram jalan yang lewat."
         ],
         "late_night": "Bulan saja sudah tidur miring, kenapa kamu masih menyala? Bintang bukan untuk dihitung, tapi untuk dijadikan selimut. Matikan lampunya, aku berjaga di bawah.",
         "monday_morning": "Kenapa wajah kalian semua panjang seperti keledai? Oh, monster bernama \"Senin\" datang lagi, ya? Kertakkan gigi dan bertahanlah hari ini, dia tidak akan bisa apa-apa padamu."
