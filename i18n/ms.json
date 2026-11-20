@@ -12,5 +12,36 @@
         "welcome": "Salin teks yang hendak diterjemah...\nApa? Ini pun perlu diajar?\n\nBaiklah, sebab saya baik hati:\n\t1. Pilih dengan tetikus\n\t2. Tekan ctrl+c",
         "welcome_status": "😺Selamat datang😺",
         "too_long": "Teks anda terlalu panjang! Meow meow"
+    },
+    "cat_notes": {
+        "prefix": "🐈 Kucing jalanan berkata: ",
+        "normal": [
+            "Lelaki berkaca mata itu mengeluh lagi sambil bersiar-siar. Aku tak faham apa itu \"laporan harian\", tapi sesiapa yang tak benarkan kau berdengkur di bawah matahari seindah ini mesti orang jahat.",
+            "Makhluk berkaki dua selalu beratur di depan kotak segi empat itu, memegang air hitam yang pahit. Mereka berlari begitu laju, tapi semuanya berhenti demi bunyi \"bip\". Adakah untuk membuktikan mereka sudah ditangkap dalam sangkar?",
+            "Lampu di tingkat atas menyala sepanjang malam lagi. Spesies yang pelik. Tiada pemangsa yang mengejar kau, kenapa kau masih tak mahu baring dan tidur? Aku pun dah tukar posisi tiga kali.",
+            "Jangan tengok telefon, tengok aku. Angin hari ini membawa bau oden dari kedai serbaneka sebelah, dan sedikit wangi daun ginkgo yang sedang menapai. Hidung kau rosak ke?",
+            "Kau semua berlari bermati-matian demi beberapa helai kertas merah, sedangkan kertas itu tak boleh dimakan dan tak boleh dibuat asah kuku. Dengar cakap aku: lebih baik pergi baring atas rumput yang disinari matahari sekarang. Rasa perut yang hangat dijemur, itulah yang sebenar.",
+            "Aku lepaskan riang-riang yang baru aku tangkap. Bunyinya terlalu bising, dan kebetulan aku agak mengantuk. Tengok, kadang-kadang melepaskan satu matlamat lebih selesa daripada mencapainya.",
+            "Manusia berambut panjang yang selalu beri aku snek kucing sudah lama tak muncul. Harap dia pergi berjemur di wilayah lain, bukan terkurung dalam kotak yang ada lampu tapi tiada bulan.",
+            "Hei, kau berjalan terlalu laju, jiwa kau pun tak terkejar. Berhentilah dan usap kepala aku. Percuma, cuma perlu bayar dengan seminit kerisauan kau.",
+            "Walaupun kau berbau tembakau yang aku tak suka, memandangkan mata kau basah macam anak anjing masa kau mencangkung, aku benarkan kau garu dagu aku dua kali.",
+            "Sudah tengah malam, bangunan ini masih bercahaya. Adakah ia juga kelip-kelip gergasi yang tak boleh tidur, menunggu pasangannya terbang datang?",
+            "Gadis berambut pendek yang selalu menangis itu tersenyum hari ini. Begnya berbau ayam goreng. Nampaknya \"kalori\" ialah gam yang menampal jiwa manusia.",
+            "Si Tiga Warna dapat makanan tin setiap hari sebab dia cantik. Dalam dunia manusia, itu dipanggil \"kelebihan rupa paras\"? Memang tak adil, tapi suara dia betul-betul manja.",
+            "Mesyuarat kami kucing sangat mudah: duduk bersama, dan tiada siapa pedulikan sesiapa.",
+            "Kau semua bila berjumpa selalu tanya \"Dah makan?\", tapi langsung tak bawa makanan. Basa-basi manusia memang hipokrit. Kami kucing terus cium punggung masing-masing, tak pernah menipu.",
+            "Bersembunyi bawah kereta dengar bunyi hujan, tik-tak-tik-tak macam kacang digoreng. Marilah bersembunyi dengan aku sekejap, bila langit cerah nanti baru jadi manusia semula.",
+            "Matahari hari ini terlalu terik, jalan tar boleh melecurkan tapak kaki. Jangan keluar. Kotak putih yang boleh hembus udara sejuk itu ialah ciptaan terhebat kau manusia."
+        ],
+        "rare": [
+            "[Hadiah] Hei, jangan pergi. Ini penutup botol bir yang baru aku jumpa, warna emas, macam bintang yang boleh kau sepak jauh bila-bila masa kau tak gembira.",
+            "[Hadiah] Tadi angin bertiup, dan aku tangkap daun musim luruh yang paling cantik. Ambillah buat penanda buku.",
+            "[Hadiah] Asalnya aku nak beri kau seekor serangga besar, tapi takut bulu kau gugur sebab terkejut. Tak apalah, ambil bunga ungu kecil dari batas bunga ini.",
+            "[Gerak Rasa] Kau mengeluh tadi, kan? Misai aku dapat rasa getaran udara. Mari, sentuh skrin, aku hantar bunyi dengkuran aku kepada kau.",
+            "[Ralat] Meow—meow—(isyarat terputus). Pelik, tadi aku nak beritahu kau satu rahsia alam semesta, tapi terlupa sebab lori penyiram jalan lalu.",
+            "[Penemuan] Jangan bergerak. Ada serangga kecil atas skrin kau… itu bayang aku ke? Rupanya kau tinggal dalam kotak bercahaya ini."
+        ],
+        "late_night": "Bulan pun dah tidur senget, kenapa kau masih menyala? Bintang bukan untuk dikira, tapi untuk dijadikan selimut. Tutup lampu, aku berjaga di bawah.",
+        "monday_morning": "Kenapa muka kau semua panjang macam keldai? Oh, raksasa bernama \"Isnin\" datang lagi ke? Ketap gigi dan harungi hari ini, dia takkan boleh buat apa-apa pada kau."
     }
 }

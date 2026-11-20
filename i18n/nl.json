@@ -12,5 +12,36 @@
         "welcome": "Kopieer de tekst die je wilt vertalen...\nWat? Moet ik dat ook nog uitleggen?\n\nVooruit dan maar:\n\t1. Selecteer met de muis\n\t2. Druk op ctrl+c",
         "welcome_status": "😺Welkom😺",
         "too_long": "Je invoer is te lang! Miauw miauw"
+    },
+    "cat_notes": {
+        "prefix": "🐈 De zwerfkat zegt: ",
+        "normal": [
+            "Die jongen met de bril loopt weer zuchtend zijn rondje. Ik weet niet wat een ‘dagrapport’ is, maar wie jou niet laat dutten in zo’n heerlijk zonnetje, moet wel een schurk zijn.",
+            "De tweebeners staan altijd in de rij voor dat vierkante kastje, met bekers bitter zwart water in hun hand. Ze rennen zo hard, maar stoppen allemaal even om ‘piep’ te doen. Om te bewijzen dat de kooi ze gevangen heeft?",
+            "Het licht boven heeft weer de hele nacht gebrand. Wat een vreemde soort. Niemand jaagt op jullie, dus waarom gaan jullie niet gewoon liggen slapen? Ik ben al drie keer van houding gewisseld.",
+            "Stop met naar je telefoon kijken. Kijk naar mij. De wind ruikt vandaag naar oden uit de supermarkt hiernaast, met een vleugje gistende ginkgobladeren. Is je neus kapot?",
+            "Jullie rennen je de benen uit het lijf voor wat gekleurde papiertjes waar je niet op kunt kauwen of je nagels aan kunt scherpen. Luister naar mij: ga nu in het zonnige gras liggen. Een door de zon verwarmde buik, dát is echt.",
+            "Ik heb de cicade die ik net had gevangen weer laten gaan. Hij maakte te veel lawaai, en ik was een beetje slaperig. Zie je? Soms voelt een doel opgeven beter dan het halen.",
+            "Het mens met het lange haar dat me altijd snoepjes gaf, heb ik al lang niet meer gezien. Ik hoop dat ze in een ander territorium in de zon ligt, en niet opgesloten zit in een doos met lampen maar zonder maan.",
+            "Hé, je loopt zo snel dat je ziel je niet kan bijhouden. Sta even stil en aai me over mijn kop. Het is gratis — het kost je alleen één minuut van je stress.",
+            "Je ruikt naar tabak, en daar hou ik niet van. Maar omdat je ogen zo nat werden als die van een puppy toen je door je knieën ging, mag je twee keer aan mijn kin krabben.",
+            "Het is middernacht en dit gebouw gloeit nog steeds. Is het soms ook een reusachtige vuurvlieg met slapeloosheid, die wacht tot zijn geliefde komt aanvliegen?",
+            "Het meisje met het korte haar dat altijd huilt, glimlachte vandaag. Haar tas rook naar gefrituurde kip. Blijkbaar zijn ‘calorieën’ de lijm waarmee je mensenzielen repareert.",
+            "Lapjespoesje krijgt elke dag blikvoer omdat ze zo mooi is. Noemen jullie mensen dat de ‘schoonheidsbonus’? Het is niet eerlijk, maar haar miauw is echt heel lief.",
+            "Onze kattenvergaderingen zijn simpel: we zitten bij elkaar en negeren elkaar.",
+            "Jullie vragen altijd ‘Hoe gaat het?’ als je elkaar ziet, maar wachten het antwoord nooit af. Menselijk gebabbel is zo nep. Wij katten snuffelen gewoon aan elkaars kont. Wij liegen nooit.",
+            "Verstopt onder een auto luisteren naar de regen, tikketikketik als bonen in een pan. Kruip even bij me; je kunt weer mens worden als de lucht opklaart.",
+            "De zon is vandaag meedogenloos; het asfalt verbrandt je kussentjes. Ga niet naar buiten. Die witte doos die koude lucht blaast, is de grootste uitvinding van de mensheid."
+        ],
+        "rare": [
+            "[Cadeau] Hé, niet weggaan. Hier, een kroonkurk die ik net heb gevonden. Hij is goud, als een ster die je weg kunt schoppen wanneer je niet blij bent.",
+            "[Cadeau] Er waaide net een windvlaag langs en ik ving het mooiste blad van de herfst. Gebruik het maar als boekenlegger.",
+            "[Cadeau] Ik wilde je een dikke kever geven, maar ik was bang dat je haren zou verliezen van schrik. Vooruit, neem dan maar dit paarse bloemetje uit het perkje.",
+            "[Voelde het] Zuchtte je net? Mijn snorharen voelden de lucht trillen. Kom, raak het scherm aan. Ik stuur je mijn gespin.",
+            "[Storing] Miauw — miauw — (signaal verloren). Raar. Ik wilde je net een geheim van het universum vertellen, maar een voorbijrijdende sproeiwagen maakte me het vergeten.",
+            "[Ontdekking] Niet bewegen. Er zit een vliegje op je scherm… wacht, is dat mijn spiegelbeeld? Dus jij woont in dit gloeiende doosje."
+        ],
+        "late_night": "Zelfs de maan is scheef in slaap gevallen. Waarom brand jij nog? Sterren zijn niet om te tellen, maar om als deken over je heen te trekken. Doe het licht uit. Ik hou beneden de wacht.",
+        "monday_morning": "Waarom trekken jullie allemaal zo’n lang gezicht? O, is dat monster dat ‘maandag’ heet er weer? Bijt op je tanden en kom de dag door, dan kan het je niks maken."
     }
 }

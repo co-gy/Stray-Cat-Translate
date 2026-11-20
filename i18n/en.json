@@ -14,5 +14,36 @@
         "welcome": "Copy the text you want to translate...\nWhat? You need me to explain that?\n\nFine, out of the kindness of my heart:\n\t1. Select it with the mouse\n\t2. Press ctrl+c",
         "welcome_status": "😺Welcome😺",
         "too_long": "Your input is too long! Meow meow"
+    },
+    "cat_notes": {
+        "prefix": "🐈 The stray cat says: ",
+        "normal": [
+            "That guy with glasses is sighing on his walk again. I don't know what a \"daily report\" is, but anyone who won't let you nap in sunshine this nice must be a villain.",
+            "The two-legged ones always line up in front of that square box, holding cups of bitter black water. They run so fast, yet they all stop to go \"beep.\" Is it to prove they've been caught in the cage?",
+            "The light upstairs was on all night again. What a strange species. Nothing is hunting you, so why won't you lie down and sleep? I've already switched positions three times.",
+            "Stop looking at your phone. Look at me. Today the wind smells of oden from the convenience store next door, with a hint of fermenting ginkgo leaves. Is your nose broken?",
+            "You run yourselves ragged for a few sheets of paper you can't eat or sharpen your claws on. Take my advice: go lie on the sunny lawn right now. A sun-warmed belly is the real thing.",
+            "I let go of the cicada I just caught. It was too noisy, and I was a bit sleepy. See? Sometimes giving up on a goal feels better than catching it.",
+            "The long-haired human who always fed me treats hasn't shown up in a long time. I hope she went to sunbathe in another territory, not locked in a box with lamps but no moon.",
+            "Hey, you're walking so fast your soul can't keep up. Stop and pat my head. It's free—it only costs one minute of your anxiety.",
+            "You smell of tobacco, which I don't like. But since your eyes went all wet like a puppy's when you crouched down, you may scratch my chin twice.",
+            "It's midnight and this building is still glowing. Is it a giant firefly with insomnia, waiting for its mate to fly over?",
+            "The short-haired girl who's always crying smiled today. Her bag smelled of fried chicken. Looks like \"calories\" are the glue that mends human souls.",
+            "Little Calico gets canned food every day because she's pretty. You humans call that the \"beauty premium\"? It's not fair, but her meow really is sweet.",
+            "Our cat meetings are simple: we sit together and ignore each other.",
+            "You always ask \"Have you eaten?\" when you meet, but you never bring any food. Human small talk is so fake. We cats just sniff each other's butts. We never lie.",
+            "Hiding under a car listening to the rain, pitter-patter like beans in a pan. Hide here with me for a while; you can go back to being human when the sky clears.",
+            "The sun is brutal today; the asphalt will burn your paw pads. Don't go out. That white box that blows cold air is humanity's greatest invention."
+        ],
+        "rare": [
+            "[Gift] Hey, don't go. Here's a bottle cap I just found. It's golden, like a star you can kick away whenever you're not happy.",
+            "[Gift] A gust of wind just blew by, and I caught the prettiest leaf of autumn. Keep it as a bookmark.",
+            "[Gift] I was going to give you a big bug, but I was afraid you'd jump out of your fur. Fine, have this little purple flower from the flowerbed.",
+            "[Sensed] Did you just sigh? My whiskers felt the air move. Come, touch the screen. I'll send you my purr.",
+            "[Glitch] Meow—meow—(signal lost). Weird. I was about to tell you a secret of the universe, but a passing street sweeper made me forget.",
+            "[Discovery] Don't move. There's a tiny bug on your screen... wait, is that my reflection? So you live inside this glowing box."
+        ],
+        "late_night": "Even the moon has dozed off sideways. Why are you still lit up? Stars aren't for counting; they're for pulling over you like a blanket. Turn off the light. I'll keep watch downstairs.",
+        "monday_morning": "Why are all your faces as long as a donkey's? Oh, has that monster called \"Monday\" come again? Grit your teeth and get through today, and it can't do anything to you."
     }
 }

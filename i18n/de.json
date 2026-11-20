@@ -12,5 +12,36 @@
         "welcome": "Kopiere den Text, den du übersetzen willst...\nWas? Das muss ich dir erklären?\n\nNa gut, ausnahmsweise:\n\t1. Mit der Maus markieren\n\t2. Mit Strg+C kopieren",
         "welcome_status": "😺Willkommen😺",
         "too_long": "Deine Eingabe ist zu lang! Miau miau"
+    },
+    "cat_notes": {
+        "prefix": "🐈 Die Streunerkatze sagt: ",
+        "normal": [
+            "Der Typ mit der Brille seufzt schon wieder beim Spazierengehen. Ich weiß zwar nicht, was ein „Tagesbericht“ ist, aber wer dich bei so schönem Sonnenschein nicht schnurren lässt, muss ein Bösewicht sein.",
+            "Die Zweibeiner stehen immer vor diesem eckigen Kasten Schlange, in der Hand ihr bitteres schwarzes Wasser. Sie rennen so schnell und bleiben trotzdem alle stehen, um „piep“ zu machen. Wollen sie damit beweisen, dass der Käfig sie gefangen hat?",
+            "Oben brannte schon wieder die ganze Nacht Licht. Was für eine seltsame Spezies. Kein Feind ist hinter euch her – warum legt ihr euch nicht einfach hin und schlaft? Ich habe schon dreimal die Position gewechselt.",
+            "Hör auf, aufs Handy zu starren, und schau mich an. Der Wind riecht heute nach dem Oden aus dem Laden nebenan und ein bisschen nach gärenden Ginkgoblättern. Ist deine Nase kaputt?",
+            "Ihr rennt euch die Seele aus dem Leib für ein paar bunte Papierscheine, die man weder essen noch zum Krallenwetzen benutzen kann. Hör auf mich: Leg dich lieber gleich auf die sonnige Wiese. Ein sonnenwarmer Bauch – das ist das einzig Echte.",
+            "Ich habe die Zikade wieder freigelassen, die ich gerade gefangen hatte. Sie war zu laut, und ich war ein bisschen müde. Siehst du? Manchmal fühlt es sich besser an, ein Ziel aufzugeben, als es zu erreichen.",
+            "Die langhaarige Zweibeinerin, die mir immer Leckerli gab, ist lange nicht mehr aufgetaucht. Ich hoffe, sie sonnt sich jetzt in einem anderen Revier – und sitzt nicht in einem Kasten fest, in dem es Lampen gibt, aber keinen Mond.",
+            "He, du läufst so schnell, dass deine Seele nicht mehr hinterherkommt. Bleib stehen und streichle mir den Kopf. Kostet nichts – nur eine Minute deiner Sorgen als Tausch.",
+            "Du riechst nach Tabak, und das mag ich nicht. Aber weil deine Augen beim Hinhocken so feucht geworden sind wie die eines Welpen, darfst du mich zweimal am Kinn kraulen.",
+            "Mitten in der Nacht leuchtet dieses Hochhaus immer noch. Ist es vielleicht auch ein riesiges Glühwürmchen, das nicht schlafen kann und darauf wartet, dass sein Liebster herbeifliegt?",
+            "Das kurzhaarige Mädchen, das immer weint, hat heute gelacht. Ihre Tüte roch nach Brathähnchen. Sieht so aus, als wären „Kalorien“ der Kleber, der Menschenseelen flickt.",
+            "Die kleine Dreifarbige kriegt jeden Tag Dosenfutter, weil sie hübsch ist. Das nennt ihr Menschen wohl „Schönheitsbonus“? Unfair, ja – aber ihr Miauen klingt wirklich zuckersüß.",
+            "Unsere Katzenversammlungen sind ganz einfach: Wir sitzen zusammen und ignorieren uns gegenseitig.",
+            "Ihr grüßt euch ständig mit „Mahlzeit!“, aber Essen habt ihr nie dabei. Wie verlogen eure Menschenhöflichkeit ist. Wir Katzen beschnuppern uns einfach am Hintern und lügen nie.",
+            "Unterm Auto versteckt dem Regen lauschen – es prasselt wie Bohnen in der Pfanne. Versteck dich doch ein bisschen mit mir; Mensch sein kannst du wieder, wenn der Himmel aufklart.",
+            "Die Sonne brennt heute gnadenlos, der Asphalt verbrennt einem die Pfotenballen. Bleib drinnen. Dieser weiße Kasten, der kalte Luft pustet, ist die größte Erfindung der Menschheit."
+        ],
+        "rare": [
+            "[Geschenk] He, geh nicht weg. Hier, ein Kronkorken, den ich gerade gefunden habe. Golden – wie ein Stern, den du jederzeit wegkicken kannst, wenn du unglücklich bist.",
+            "[Geschenk] Eben kam ein Windstoß, und ich habe das schönste Blatt des Herbstes erwischt. Nimm es als Lesezeichen.",
+            "[Geschenk] Eigentlich wollte ich dir einen dicken Käfer schenken, aber ich hatte Angst, dass dir vor Schreck das Fell ausfällt. Na gut, nimm diese kleine lila Blume aus dem Blumenbeet.",
+            "[Gespürt] Hast du gerade geseufzt? Meine Schnurrhaare haben den Luftzug gespürt. Komm, berühr den Bildschirm – ich schicke dir mein Schnurren.",
+            "[Störung] Miau – miau – (Signal unterbrochen). Komisch. Ich wollte dir gerade ein Geheimnis des Universums verraten, aber der vorbeifahrende Sprengwagen war so laut, dass ich es vergessen habe.",
+            "[Entdeckung] Nicht bewegen. Auf deinem Bildschirm sitzt eine kleine Fliege … Moment, ist das mein Spiegelbild? Du wohnst also in diesem leuchtenden Kasten."
+        ],
+        "late_night": "Sogar der Mond ist schon schief eingeschlafen – warum leuchtest du noch? Sterne sind nicht zum Zählen da, sondern zum Zudecken. Mach das Licht aus. Ich halte unten Wache.",
+        "monday_morning": "Warum macht ihr alle Gesichter so lang wie ein Esel? Ach, ist dieses Monster namens „Montag“ wieder da? Beiß die Zähne zusammen und halte heute durch, dann kann es dir nichts anhaben."
     }
 }

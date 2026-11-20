@@ -9,6 +9,7 @@
     language_name: 该语言自己的名称, 显示在 "语言" 菜单里
     target_lang: 翻译的目标语言 (填进中文 prompt, 所以写中文名称)
     ui:          界面文字, 缺少的键用 en.json 补齐
+    cat_notes:   欢迎语下面的流浪猫小字条 (格式见 cat_notes.py), 缺少时用 en.json 的
 """
 import os
 import time
@@ -70,11 +71,12 @@ def resolve_locale(conf):
 
 @lru_cache(maxsize=None)
 def load_locale(locale):
-    """读取 locale 文件, ui 缺少的键用英文补齐; 文件不存在时用 DEFAULT_LOCALE"""
+    """读取 locale 文件, ui 缺少的键和 cat_notes 用英文补齐; 文件不存在时用 DEFAULT_LOCALE"""
     path = os.path.join(I18N_DIR, f"{locale}.json")
     if not os.path.exists(path):
         path = os.path.join(I18N_DIR, f"{DEFAULT_LOCALE}.json")
     data = read_json(path)
     ui = {**read_json(os.path.join(I18N_DIR, f"{BASE_LOCALE}.json"))["ui"], **data.get("ui", {})}
+    cat_notes = data.get("cat_notes") or read_json(os.path.join(I18N_DIR, f"{BASE_LOCALE}.json")).get("cat_notes")
     return {"language_name": data.get("language_name", locale),
-            "target_lang": data["target_lang"], "ui": ui}
+            "target_lang": data["target_lang"], "ui": ui, "cat_notes": cat_notes}

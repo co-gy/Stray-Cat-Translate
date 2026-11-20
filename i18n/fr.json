@@ -12,5 +12,36 @@
         "welcome": "Copiez le texte à traduire...\nQuoi ? Il faut vraiment que je vous l'explique ?\n\nBon, puisque je suis généreux :\n\t1. Sélectionnez-le à la souris\n\t2. Appuyez sur ctrl+c",
         "welcome_status": "😺Bienvenue😺",
         "too_long": "Ton texte est trop long ! Miaou miaou"
+    },
+    "cat_notes": {
+        "prefix": "🐈 Le chat errant te dit : ",
+        "normal": [
+            "Le garçon à lunettes soupire encore en se promenant. Je ne sais pas ce qu'est un « rapport quotidien », mais quiconque t'empêche de ronronner sous un si beau soleil est forcément un méchant.",
+            "Les bipèdes font toujours la queue devant cette boîte carrée, une eau noire et amère à la main. Ils courent si vite, et pourtant ils s'arrêtent tous pour faire « bip ». C'est pour prouver qu'ils ont bien été capturés par la cage ?",
+            "La lumière du dessus est encore restée allumée toute la nuit. Drôle d'espèce. Aucun prédateur ne vous poursuit, alors pourquoi refusez-vous de vous coucher pour dormir ? Moi, j'ai déjà changé trois fois de position.",
+            "Lâche ton téléphone et regarde-moi. Aujourd'hui, le vent sent l'oden de la supérette d'à côté, avec une pointe de feuilles de ginkgo qui fermentent. Ton nez est cassé ?",
+            "Vous courez comme des fous pour quelques billets colorés qu'on ne peut ni manger ni utiliser pour se faire les griffes. Écoute-moi : va plutôt t'allonger sur la pelouse au soleil, tout de suite. Un ventre chauffé par le soleil, ça, c'est du vrai.",
+            "J'ai relâché la cigale que je venais d'attraper. Elle chantait trop fort, et j'avais un peu sommeil. Tu vois ? Parfois, renoncer à un but fait plus de bien que de l'atteindre.",
+            "La bipède aux longs cheveux qui me donnait toujours des friandises n'est pas revenue depuis longtemps. J'espère qu'elle est partie se dorer au soleil sur un autre territoire, et qu'elle n'est pas enfermée dans une boîte pleine de lampes mais sans lune.",
+            "Hé, tu marches si vite que ton âme n'arrive plus à suivre. Arrête-toi et caresse-moi la tête. C'est gratuit : ça ne te coûte qu'une minute d'angoisse en échange.",
+            "Tu sens le tabac, et je n'aime pas ça. Mais puisque tu as eu les yeux tout mouillés comme un chiot en t'accroupissant, je t'autorise à me gratter deux fois le menton.",
+            "En pleine nuit, cet immeuble brille encore. Serait-ce une luciole géante insomniaque qui attend que sa moitié vienne la rejoindre ?",
+            "La fille aux cheveux courts qui pleure tout le temps a souri aujourd'hui. Son sac sentait le poulet frit. On dirait que les « calories » sont la colle qui répare l'âme humaine.",
+            "La petite tricolore a droit à de la pâtée tous les jours parce qu'elle est jolie. Chez vous, les humains, ça s'appelle la « prime à la beauté » ? Ce n'est pas juste, mais son miaulement est vraiment tout doux.",
+            "Nos réunions de chats sont simples : on s'assoit ensemble, et personne ne s'occupe de personne.",
+            "Vous vous dites toujours « Faudrait qu'on se fasse une bouffe ! », mais vous n'apportez jamais rien à manger. Les politesses humaines sont si hypocrites. Nous, les chats, on se renifle directement le derrière, et on ne ment jamais.",
+            "Caché sous une voiture, j'écoute la pluie crépiter comme des grains qui sautent dans la poêle. Viens te cacher un peu avec moi ; tu redeviendras humain quand le ciel se sera dégagé.",
+            "Le soleil tape trop fort aujourd'hui, le bitume va brûler les coussinets. Ne sors pas. Cette boîte blanche qui souffle de l'air froid, c'est la plus grande invention de l'humanité."
+        ],
+        "rare": [
+            "[Cadeau] Hé, ne pars pas. Tiens, une capsule de bière que je viens de trouver. Dorée, comme une étoile que tu peux envoyer valser d'un coup de patte dès que tu n'es pas heureux.",
+            "[Cadeau] Un coup de vent vient de passer, et j'ai attrapé la plus jolie feuille de l'automne. Garde-la comme marque-page.",
+            "[Cadeau] Je voulais t'offrir un gros insecte, mais j'avais peur que tu perdes tes poils de frayeur. Bon, prends plutôt cette petite fleur violette du parterre.",
+            "[Ressenti] Tu viens de soupirer ? Mes moustaches ont senti l'air vibrer. Viens, touche l'écran, je t'envoie mon ronronnement.",
+            "[Anomalie] Miaou… miaou… (signal perdu). Bizarre. J'allais te révéler un secret de l'univers, mais l'arroseuse municipale qui passait me l'a fait oublier.",
+            "[Découverte] Ne bouge pas. Il y a un moucheron sur ton écran… c'est mon reflet ? Alors c'est dans cette boîte lumineuse que tu vis."
+        ],
+        "late_night": "Même la lune s'est endormie de travers, et toi, tu brilles encore ? Les étoiles ne sont pas faites pour être comptées, mais pour servir de couverture. Éteins la lumière. Je monte la garde en bas.",
+        "monday_morning": "Pourquoi vous faites tous une tête aussi longue que celle d'un âne ? Ah, c'est encore ce monstre qu'on appelle « lundi » ? Serre les dents et tiens bon aujourd'hui, et il ne pourra rien contre toi."
     }
 }

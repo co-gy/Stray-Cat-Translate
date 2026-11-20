@@ -12,5 +12,36 @@
         "welcome": "Çevirmek istediğin metni kopyala...\nNe? Bunu da mı anlatmam gerekiyor?\n\nPeki, madem öyle:\n\t1. Fareyle seç\n\t2. ctrl+c ile kopyala",
         "welcome_status": "😺Hoş geldin😺",
         "too_long": "Metnin çok uzun! Miyav miyav"
+    },
+    "cat_notes": {
+        "prefix": "🐈 Sokak kedisi diyor ki: ",
+        "normal": [
+            "Şu gözlüklü çocuk yine yürürken iç çekiyor. “Günlük rapor” ne demek bilmiyorum ama böyle güzel bir güneşte kestirmene izin vermeyen kişi kesin kötü adamdır.",
+            "İki ayaklılar hep o kare kutunun önünde sıraya giriyor, ellerinde acı siyah su. O kadar hızlı koşuyorlar ama hepsi durup bir “bip” yapıyor. Kafese yakalandıklarını kanıtlamak için mi?",
+            "Üst kattaki ışık yine bütün gece yandı. Ne tuhaf bir tür. Peşinizde avcı yok, o zaman neden yatıp uyumuyorsunuz? Ben şimdiden üç kez pozisyon değiştirdim.",
+            "Telefona bakmayı bırak. Bana bak. Bugün rüzgâr yandaki marketin oden kokusunu taşıyor, bir de hafif mayalanan ginkgo yaprağı kokusunu. Burnun mu bozuldu?",
+            "Birkaç renkli kâğıt için kendinizi paralıyorsunuz, ama o kâğıt ne yenir ne de tırnak bilemeye yarar. Sözümü dinle: hemen güneşli çimenlere uzan. Güneşte ısınmış bir göbek, asıl gerçek budur.",
+            "Az önce yakaladığım ağustosböceğini bıraktım. Çok gürültücüydü, ben de biraz uykuluydum. Gördün mü? Bazen bir hedeften vazgeçmek, ona ulaşmaktan daha keyiflidir.",
+            "Bana hep ödül maması veren uzun saçlı insan uzun zamandır görünmüyor. Umarım başka bir bölgede güneşleniyordur da lambası olup ayı olmayan bir kutuya kapatılmamıştır.",
+            "Hey, o kadar hızlı yürüyorsun ki ruhun sana yetişemiyor. Dur da kafamı okşa. Bedava — sadece bir dakikalık kaygına mal olur.",
+            "Üstünde sevmediğim bir sigara kokusu var. Ama çömeldiğinde gözlerin yavru köpek gibi buğulandığı için çenemi iki kez kaşımana izin veriyorum.",
+            "Gece yarısı oldu ve bu bina hâlâ parlıyor. Acaba o da uykusuz dev bir ateşböceği mi, eşinin uçup gelmesini bekleyen?",
+            "Hep ağlayan kısa saçlı kız bugün gülümsedi. Poşetinden kızarmış tavuk kokusu geliyordu. Anlaşılan “kalori”, insan ruhunu onaran yapıştırıcıymış.",
+            "Üç renkli kız kardeş güzel olduğu için her gün konserve mama yiyor. Siz insanlar buna “güzellik primi” mi diyorsunuz? Adil değil ama miyavlaması gerçekten çok tatlı.",
+            "Biz kedilerin toplantıları basittir: yan yana oturur, kimse kimseyi takmaz.",
+            "Karşılaşınca hep “Nasılsın?” diye soruyorsunuz ama cevabı hiç dinlemiyorsunuz. İnsanların sohbeti ne kadar sahte. Biz kediler doğrudan birbirimizin poposunu koklarız. Asla yalan söylemeyiz.",
+            "Arabanın altına saklanıp yağmuru dinliyorum, tavada patlayan mısır gibi tıpır tıpır. Biraz benimle saklan; hava açılınca yine insan olursun.",
+            "Bugün güneş fena yakıyor; asfalt pati yastıklarını yakar. Dışarı çıkma. Soğuk hava üfleyen o beyaz kutu, insanlığın en büyük icadı."
+        ],
+        "rare": [
+            "[Hediye] Hey, gitme. Al, az önce bulduğum bir bira kapağı. Altın rengi, canın sıkıldığında istediğin zaman tekmeleyip uzağa atabileceğin bir yıldız gibi.",
+            "[Hediye] Az önce bir rüzgâr esti ve sonbaharın en güzel yaprağını yakaladım. Kitap ayracı olarak senin olsun.",
+            "[Hediye] Sana kocaman bir böcek verecektim ama korkudan tüylerin döker diye çekindim. Peki, al şu çiçek tarhındaki küçük mor çiçeği.",
+            "[Sezgi] Az önce iç mi çektin? Bıyıklarım havanın titrediğini hissetti. Gel, ekrana dokun. Sana mırlamamı göndereyim.",
+            "[Arıza] Miyav — miyav — (sinyal kesildi). Tuhaf. Sana evrenin bir sırrını anlatacaktım ama geçen arazöz yüzünden unuttum.",
+            "[Keşif] Kıpırdama. Ekranında küçük bir sinek var… dur, o benim yansımam mı? Demek sen bu parlayan kutunun içinde yaşıyorsun."
+        ],
+        "late_night": "Ay bile yan yatıp uyuyakaldı. Sen neden hâlâ yanıyorsun? Yıldızlar saymak için değil, üstüne yorgan gibi örtmek içindir. Işığı kapat. Ben aşağıda nöbet tutarım.",
+        "monday_morning": "Neden hepinizin suratı bir karış? Ah, yine o “pazartesi” denen canavar mı geldi? Dişini sık ve bugünü atlat, sana hiçbir şey yapamaz."
     }
 }

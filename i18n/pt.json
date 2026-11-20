@@ -12,5 +12,36 @@
         "welcome": "Copie o texto que deseja traduzir...\nO quê? Preciso mesmo explicar isso?\n\nTudo bem, por pura bondade:\n\t1. Selecione com o mouse\n\t2. Pressione ctrl+c",
         "welcome_status": "😺Bem-vindo😺",
         "too_long": "Seu texto é longo demais! Miau miau"
+    },
+    "cat_notes": {
+        "prefix": "🐈 O gato de rua diz: ",
+        "normal": [
+            "Aquele rapaz de óculos está suspirando na caminhada de novo. Não sei o que é um “relatório diário”, mas quem não deixa você tirar uma soneca num sol gostoso desses só pode ser um vilão.",
+            "Os bípedes vivem fazendo fila na frente daquela caixa quadrada, segurando copos de água preta e amarga. Correm tanto, mas todos param para fazer “bip”. É para provar que foram pegos pela gaiola?",
+            "A luz lá de cima ficou acesa a noite toda de novo. Que espécie estranha. Nenhum predador está atrás de vocês, então por que não se deitam para dormir? Eu já troquei de posição três vezes.",
+            "Larga o celular e olha para mim. Hoje o vento tem cheiro do oden da loja de conveniência ao lado e um toque de folhas de ginkgo fermentando. Seu nariz quebrou?",
+            "Vocês se matam de correr por uns papéis coloridos que não dá para comer nem para afiar as unhas. Escuta o meu conselho: vá deitar no gramado ensolarado agora. Barriga quentinha de sol, isso sim é de verdade.",
+            "Soltei a cigarra que eu tinha acabado de pegar. Ela fazia barulho demais, e eu estava com um pouco de sono. Viu? Às vezes desistir de um objetivo é mais gostoso do que alcançá-lo.",
+            "A humana de cabelo comprido que sempre me dava petisco sumiu faz tempo. Espero que ela tenha ido tomar sol em outro território, e não que esteja presa numa caixa cheia de lâmpadas e sem lua.",
+            "Ei, você está andando tão rápido que a sua alma não consegue acompanhar. Para e faz carinho na minha cabeça. É de graça — só custa um minuto da sua ansiedade.",
+            "Você tem cheiro de cigarro, e eu não gosto. Mas, como seus olhos ficaram molhadinhos feito os de um filhote quando você se agachou, está autorizado a coçar meu queixo duas vezes.",
+            "Já é meia-noite e este prédio continua brilhando. Será que ele também é um vaga-lume gigante com insônia, esperando a parceira chegar voando?",
+            "A menina de cabelo curto que vive chorando sorriu hoje. A sacola dela tinha cheiro de frango frito. Parece que as “calorias” são a cola que conserta a alma humana.",
+            "A Tricolorzinha ganha ração úmida todo dia porque é bonita. Vocês humanos chamam isso de “privilégio da beleza”? Não é justo, mas o miado dela é mesmo docinho.",
+            "As reuniões do nosso bando de gatos são simples: a gente senta junto e ninguém dá bola para ninguém.",
+            "Vocês sempre perguntam “Tudo bem?” quando se encontram, mas nem esperam a resposta. A conversa fiada humana é tão falsa. Nós, gatos, simplesmente cheiramos o bumbum um do outro. Nunca mentimos.",
+            "Escondido debaixo de um carro, ouvindo a chuva, um tec-tec-tec de pipoca na panela. Vem se esconder comigo um pouco; você volta a ser gente quando o céu abrir.",
+            "O sol está de rachar hoje; o asfalto vai queimar as almofadinhas das patas. Não saia. Aquela caixa branca que sopra ar gelado é a maior invenção da humanidade."
+        ],
+        "rare": [
+            "[Presente] Ei, não vai embora. Toma uma tampinha de cerveja que eu acabei de achar. É dourada, igual a uma estrela que você pode chutar longe sempre que não estiver feliz.",
+            "[Presente] Passou uma rajada de vento agora há pouco e eu peguei a folha mais bonita do outono. Fica para você usar de marcador de página.",
+            "[Presente] Eu ia te dar um insetão, mas fiquei com medo de você perder o pelo de susto. Tá bom, fica com esta florzinha roxa do canteiro.",
+            "[Pressentimento] Você acabou de suspirar? Meus bigodes sentiram o ar vibrar. Vem, toca na tela. Vou te mandar meu ronronado.",
+            "[Falha] Miau — miau — (sinal perdido). Estranho. Eu ia te contar um segredo do universo, mas um caminhão-pipa passou fazendo barulho e eu esqueci.",
+            "[Descoberta] Não se mexe. Tem um mosquitinho na sua tela… espera, é o meu reflexo? Então é aí que você mora, dentro dessa caixa que brilha."
+        ],
+        "late_night": "Até a lua já cochilou torta. Por que você ainda está aceso? Estrelas não são para contar, são para servir de cobertor. Apaga a luz. Eu fico de guarda lá embaixo.",
+        "monday_morning": "Por que vocês estão todos com essa cara de enterro? Ah, aquele monstro chamado “segunda-feira” voltou? Aguenta firme hoje, e ele não vai poder fazer nada com você."
     }
 }

@@ -17,6 +17,7 @@ from prompt import translate_template
 from llm import LLM
 from config import APP_NAME, resource_path, has_user_config, load_config, save_config
 from i18n import resolve_locale, load_locale, available_locales
+from cat_notes import random_note
 
 # macOS 从 Finder 启动 .app 时没有 LANG, pyperclip 调用的 pbpaste 会按 GBK 等旧编码输出,
 # 剪切板里有中文/日文时按 UTF-8 解码直接崩溃
@@ -32,7 +33,8 @@ class TransApp:
         # config: 有已保存的用户配置就直接开始翻译, 否则显示设置表单
         self.config = load_config()
         # 界面语言在启动时和切换语言时确定; 翻译的目标语言在每次翻译前重新确定 (见 translate)
-        self.ui = load_locale(resolve_locale(self.config))["ui"]
+        self.locale = resolve_locale(self.config)
+        self.ui = load_locale(self.locale)["ui"]
         self.status_msg = None        # 标题栏 [...] 里的状态
         self.showing_welcome = False  # 文本框里是否还是欢迎语 (切换语言时要跟着换)
 
@@ -112,7 +114,8 @@ class TransApp:
         else:
             self.config.pop("locale", None)
         save_config(self.config)
-        self.ui = load_locale(resolve_locale(self.config))["ui"]
+        self.locale = resolve_locale(self.config)
+        self.ui = load_locale(self.locale)["ui"]
         self.apply_ui_language()
         # 已经有翻译结果时, 把当前剪切板内容按新的目标语言重新翻译一次
         if self.trans_container is not None and not self.showing_welcome:
@@ -199,12 +202,21 @@ class TransApp:
         self.scrollbar = ttk.Scrollbar(self.text_frame, command=self.clipboard_text.yview)
         self.scrollbar.pack(side="right", fill="y")
         self.clipboard_text.config(yscrollcommand=self.scrollbar.set)
+        # 欢迎语下面的小字条: 小号灰色字
+        self.clipboard_text.tag_configure(
+            "cat_note", font=("微软雅黑", 10), foreground="#9a9a9a", spacing1=12
+        )
     
         # init info
         self.root.after(0, self.show_welcome)
 
     def show_welcome(self):
         self.update_text(self.ui["welcome"])
+        note = random_note(load_locale(self.locale)["cat_notes"])
+        if note:
+            self.clipboard_text.config(state="normal")
+            self.clipboard_text.insert("end", "\n\n" + note, "cat_note")
+            self.clipboard_text.config(state="disabled")
         self.update_status(self.ui["welcome_status"])
         self.showing_welcome = True
 
